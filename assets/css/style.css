@@ -1,0 +1,47 @@
+.navbar{
+    border-bottom: 2px solid #cccccc; 
+    background-color: #ffffff;
+    padding: 0px 10px 0px 10px;
+}
+
+.navbar-brand{
+    background-color: #4aaaa5;
+    padding: 15px 20px 15px 20px;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+body{
+    background-image: url("../images/dust_scratches.png");
+
+}
+
+.aside{
+    background-color: gray;
+}
+
+.main-section{
+    background-color: white;
+}
+
+.content-title{
+    border-bottom: 2px solid #cccccc; 
+}
+.content-title h1{
+    color:#4aaaa5;
+}
+
+
+
+
+
+
+.page-footer{
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    color: #b3bcbd;
+}
