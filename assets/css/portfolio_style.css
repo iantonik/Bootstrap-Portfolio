@@ -1,18 +1,25 @@
 
-  aside{
-      height: 1000px;
-      background-color: lightcyan;
-  }
   .prod-dev{
       padding:0;
       background-color: #acb9cb;
   }
   .prod-dev-text{
       padding: 15px;
+      color: #484a4d;
+      text-align: center;
   }
 
   .prod-dev img {
       max-width: 100%;
   }
 
+.portfolio{
+    height: auto;
 
+}
+
+.img-responsive{
+    margin: 10px auto;
+
+}
+  
