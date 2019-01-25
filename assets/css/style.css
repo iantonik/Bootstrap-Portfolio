@@ -20,9 +20,6 @@ body{
 
 }
 
-.aside{
-    background-color: gray;
-}
 
 .main-section{
     background-color: white;
@@ -39,3 +36,15 @@ body{
     background-color: #666666;
     color: #b3bcbd;
 }
+
+.intro {
+    position: relative;
+  }
+  .profile-pic {
+    position: absolute;
+    max-width: 20%;
+    top: 8%;
+    left: 8%;
+  }
+
+

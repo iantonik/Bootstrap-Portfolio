@@ -15,7 +15,19 @@
 
 .img-responsive{
     margin: 10px auto;
+}
 
+.projects{
+    position: relative;
+    align-self: center;
+}
+.projects strong{
+    color: #4aaaa5;
+    font: bold;
+
+}
+.projects div{
+    padding-left: 10px;
 }
 
 
