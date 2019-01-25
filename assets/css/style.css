@@ -20,22 +20,11 @@ body{
 
 }
 
-
-.main-section{
-    background-color: white;
-}
-
-.content-title{
-    border-bottom: 2px solid #cccccc; 
-}
-.content-title h1{
-    color:#4aaaa5;
-}
 .page-footer{
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
-    color: #b3bcbd;
 }
+
 
 .intro {
     position: relative;
@@ -46,5 +35,18 @@ body{
     top: 8%;
     left: 8%;
   }
+.about-me{
+    position: relative;
+    align-self: center;
+}
+  .about-me h1 {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    color: #4aaaa5;
+    margin: 0;
+    left: center;
 
-
+}
